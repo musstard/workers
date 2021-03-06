@@ -9,4 +9,4 @@ To get started
 
 - Create CloudFlare Account @ https://workers.cloudflare.com/
 - Create Worker Function + Edit build.sh with credentials.
-- Get API Access details and put into ../../set-cloudflare-secrets.sh
+- Get API Access details and populate variables in ../../set-cloudflare-secrets.sh
